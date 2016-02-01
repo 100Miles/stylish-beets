@@ -1,3 +1,16 @@
 html {
+  font-family: "PT Serif", serif;
   background-color: #c9b5ae;
+}
+
+h1 {
+  font-family: "PT Sans";
+  font-weight: bold;
+}
+
+nav ol {
+  list-style-type: none;
+  font-family: "PT Sans";
+  font-weight: bold;
+  color: maroon;
 }
